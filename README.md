@@ -50,7 +50,7 @@ To participate in this project, you will need a free [Github Account](https://gi
 
 # Support Us
 
-Anyone can support this project through our Patreon and Kickstarter campaigns. To maintain Modern5E and publish future supplements and campaign sourcebooks, we will need help paying for artwork, writing, editing, layout, software, hardware, hosting, and other tech services, at least until things get up and running like a regular business. Those who support the project in this manner will receive special commendation and backer rewards; visit those project campaigns for more information. The news of these campaigns will also be available through our website, social media accounts (see below), and our newsletter.
+Anyone can support this project through our Patreon and Kickstarter campaigns. To maintain Modern5E and publish future supplements and campaign sourcebooks, we will need help paying for artwork, writing, editing, layout, software, hardware, hosting, and other tech services, at least until things get up and running like a regular business. Those who support the project in this manner will receive special commendation and backer rewards; visit those project campaigns for more information. The news of these campaigns will be available through our website, social media accounts (see below), and our newsletter.
 
 To support this project - until our official support channels and campaigns become available - you can contribute funds below.
 
@@ -63,3 +63,6 @@ To support this project - until our official support channels and campaigns beco
  [Website](https://shop.juxtagames.com) | [Twitter](https://twitter.com/juxtagames) | [Pinterest](https://pinterest.com/juxtagames) | [Reddit](https://reddit.com/user/juxtagames) | [Youtube](https://www.youtube.com/channel/UCckbaZDR1oRVjTFIZBthaQA) | [Patreon](https://www.patreon.com/juxtagames) | [Kickstarter](https://www.kickstarter.com/profile/juxtagames)
 
 > Copyright 2020 Juxtagames, LLC. All Rights Reserved. This project, known as *Modern5E*, is published under the Open Game License (OGL) v1.0a by [Wizards of the Coast](https://wizards.com). We make no claim or challenge to any trademarks owned by [Wizards of the Coast](https://wizards.com). In addition, this material utilizes the D20 Modern SRD and the Dungeons & Dragons SRD v5.1, both published by [Wizards of the Coast](https://wizards.com). As defined in the OGL v1.0a Section 1(e): We hereby acknowledge this material contains no product identity owned by Juxtagames or any other company or individual.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTEwNDA0NDA5NjddfQ==
+-->
