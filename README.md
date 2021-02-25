@@ -24,7 +24,7 @@ The Modern5E Ruleset is available here in Markdown (.md) format, but there are a
 
 # Work in Progress
 
-The Work in Progress (WIP) files are in the WIP Branch under the [pages](https://github.com/Juxtagames/Modern5E/tree/wip/pages) directory, which contains all the project files currently under development, either as errata or clarification updates, optional or supplemental rules, playtesting, or for future editions.
+The Work in Progress (WIP) files are in the WIP Branch under the [pages](https://github.com/Juxtagames/Modern5E/tree/work-in-progress/pages) directory, which contains all the project files currently under development, either as errata or clarification updates, optional or supplemental rules, playtesting, or for future editions.
 
 ## Why Markdown Format?
 
