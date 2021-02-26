@@ -26,7 +26,7 @@ The Modern5E Ruleset is available here in Markdown (.md) format, but there are a
 
 The Work in Progress (WIP) files are in the WIP Branch under the [pages](https://github.com/Juxtagames/Modern5E/tree/work-in-progress/pages) directory, which contains all the project files currently under development, either as errata or clarification updates, optional or supplemental rules, playtesting, or for future editions.
 
-## Why Markdown Format?
+## Why Markdown?
 
 Markdown is a lightweight markup language in plain text created by [John Gruber](https://daringfireball.net/). By its very nature, Markdown (.md) is a plain text format and will open in any word processor. However, Markdown contains specific syntax built into the text, which allows a Markdown Editor to compile the document into Richtext. Also, Markdown Editors can easily export Markdown into a multitude of formats, like HTML and nearly any publishing extension from Microsoft Word to Adobe InDesign and everything in between. Markdown is often used to format readme files and wikis and write books, blogs, and messages. Over the years, Markdown has become more and more versatile, and therefore more popular. The majority of new writers today are now using Markdown over other formats. 
 
