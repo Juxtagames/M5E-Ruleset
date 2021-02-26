@@ -13,7 +13,7 @@ In more detail, Modern5E will utilize material from both the [d20 Modern SRD](ht
 
 ## Future Publications
 
-Future Expansion Kits will supplement the rules by adding such things as fantasy races, magic, aliens, monsters, cybernetics, robotics, artificial life, artificial intelligence, mecha, space travel, superheroes more. Optional plug-ins will cover things like fame and glory points, sanity or dread rules, and mook rules; the list goes on! Much of this material will be available in supplements and/or campaign publications; see the [Juxtagames](https://www.juxtagames.com) website for more information on the Expansion Kits.
+Future Expansion Kits will supplement the rules by adding such things as fantasy races, magic, aliens, monsters, cybernetics, robotics, artificial life, artificial intelligence, mecha, space travel, superheroes and more. Optional plug-ins may cover things like fame and glory points, sanity or dread rules, mook rules; the list goes on! Much of this material will be available in supplements and/or campaign publications; see the [Juxtagames](https://www.juxtagames.com) website for more information on the Expansion Kits.
 
 # Ruleset Downloads
 
