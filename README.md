@@ -68,5 +68,12 @@ To support this project - until our official support channels and campaigns beco
 
 > Copyright 2020 Juxtagames, LLC. All Rights Reserved. This project, known as *Modern5E*, is published under the Open Game License (OGL) v1.0a by [Wizards of the Coast](https://wizards.com). We make no claim or challenge to any trademarks owned by [Wizards of the Coast](https://wizards.com). In addition, this material utilizes the D20 Modern SRD and the Dungeons & Dragons SRD v5.1, both published by [Wizards of the Coast](https://wizards.com). As defined in the OGL v1.0a Section 1(e): We hereby acknowledge this material contains no product identity owned by Juxtagames or any other company or individual.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0ODgwNTE0OF19
+eyJkaXNjdXNzaW9ucyI6eyJ4TmhCUDNlTUpwQ0NySVFlIjp7In
+N0YXJ0IjoyMDE0LCJlbmQiOjIwMTUsInRleHQiOiIuIn19LCJj
+b21tZW50cyI6eyJlWUFQNTBKaFRZMHMwVVg2Ijp7ImRpc2N1c3
+Npb25JZCI6InhOaEJQM2VNSnBDQ3JJUWUiLCJzdWIiOiJnaDo3
+OTUzMjk0OCIsInRleHQiOiJNYXliZSBpbnNlcnQgY29udGFjdC
+Bwb2ludCBmb3IgYWRkaXRpb25hbCBpbmZvcm1hdGlvbj8iLCJj
+cmVhdGVkIjoxNjE0MzY1Mjk3ODc4fX0sImhpc3RvcnkiOlszOT
+E1MjYzMTksMTU0ODgwNTE0OF19
 -->
