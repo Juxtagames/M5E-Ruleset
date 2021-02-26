@@ -17,10 +17,10 @@ Future publications will expand the rules by adding such things as fantasy races
 
 # Ruleset Downloads
 
-The Modern5E Ruleset is available here in Markdown (.md) format, but there are a few different options.
+The Modern5E Ruleset is available for download in Markdown (.md) only. Please note, it is best to download all files from the **Master Branch Only**. The Work-in-Progress Branch - and any extraneous branches - is for those who wish to review future changes or specific files in progress. Files outside the Master Branch are subject to change at anytime.
 
-* To download any public release of specific sections, chapters, or pages, visit the [pages](https://github.com/Juxtagames/Modern5E/tree/master/pages) directory above under the default Master Branch.
-* To download the entire library of ALL pages in a single package, visit [Releases](https://github.com/Juxtagames/Modern5E/releases) for the default Master Branch.
+* To download any public release of specific sections, chapters, or pages, visit the [pages](https://github.com/Juxtagames/Modern5E/tree/master/pages) directory above.
+* To download the entire library of ALL pages in a single package, visit [Releases](https://github.com/Juxtagames/Modern5E/releases).
 
 # Work in Progress
 
