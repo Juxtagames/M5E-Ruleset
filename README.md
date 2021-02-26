@@ -28,7 +28,9 @@ The Work in Progress (WIP) files are in the WIP Branch under the [pages](https:/
 
 ## Why Markdown Format?
 
-Markdown is a lightweight markup language in plain text created by [John Gruber](https://daringfireball.net/). By its very nature, Markdown (.md) is a plain text format and will open in any word processor. However, Markdown contains specific syntax built into the text, which allows a Markdown Editor to compile the document into Richtext. Also, Markdown Editors can easily export Markdown into a multitude of formats, like HTML and nearly any publishing extension from Microsoft Word to Adobe InDesign and everything in between. Markdown is often used to format readme files and wikis and write books, blogs, and messages. Over the years, Markdown has become more and more versatile, and therefore more popular. The majority of new writers today are now using Markdown over other formats.
+Markdown is a lightweight markup language in plain text created by [John Gruber](https://daringfireball.net/). By its very nature, Markdown (.md) is a plain text format and will open in any word processor. However, Markdown contains specific syntax built into the text, which allows a Markdown Editor to compile the document into Richtext. Also, Markdown Editors can easily export Markdown into a multitude of formats, like HTML and nearly any publishing extension from Microsoft Word to Adobe InDesign and everything in between. Markdown is often used to format readme files and wikis and write books, blogs, and messages. Over the years, Markdown has become more and more versatile, and therefore more popular. The majority of new writers today are now using Markdown over other formats. 
+
+However, the most significant factor in favor of using Markdown is that you are not relying on any proprietary format belonging to any corporation. Plus, because Markdown is a simple text file, the longevity of the document's structure is basically infinite.
 
 ### Markdown Editors
 
