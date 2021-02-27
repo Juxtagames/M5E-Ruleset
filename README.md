@@ -8,7 +8,7 @@ In detail, Modern5E will utilize material from both the [d20 Modern SRD](https:/
 
 ## Ruleset vs. Core Rulebook
 
-* **The Modern5E Ruleset** is maintained in separate sections, chapters, and pages for anyone to use in projects and publications via the OGL. The Ruleset is available as a FREE download (see 'Master Downloads' below). The Ruleset does not contain all the written material found in the commercially licensed products, and there is no compiled version of the Ruleset to use at the game-table. However, individuals are welcome to assemble their own tabletop editions from the available OGL material. All pages are formatted in Markdown (.MD) for ease of use and conversion.
+* **The Modern5E Ruleset** is maintained in separate sections for anyone to use in projects and publications via the OGL. The Ruleset is available as a FREE download (see 'Master Downloads' below). The Ruleset does not contain all the written material found in the commercially licensed products, and there is no compiled version of the Ruleset to use at the game-table. However, individuals are welcome to assemble their own tabletop editions from the available OGL material. All pages are formatted in Markdown (.MD) for ease of use and conversion.
 * **The Modern5E Core Rulebook** is a commercially licensed product available in various print and digital editions. The Core Rulebook contains additional material not found in the Ruleset, such as expanded character features, equipment options, examples of gameplay, and artwork. This extra material is designed to enhance the gaming experience, both at the table and online. The physical and digital editions of the Core Rulebook are available at [Juxtagames](https://www.juxtagames.com).
 
 ### Why Markdown?
@@ -58,6 +58,6 @@ To support this project - until our official channels become available - you can
 
 ---
 
- [Website](https://shop.juxtagames.com) | [Twitter](https://twitter.com/juxtagames) | [Pinterest](https://pinterest.com/juxtagames) | [Reddit](https://reddit.com/user/juxtagames) | [Tumblr](https://juxtagames.tumblr.com) | [Youtube](https://www.youtube.com/channel/UCckbaZDR1oRVjTFIZBthaQA) | [Patreon](https://www.patreon.com/juxtagames) | [Kickstarter](https://www.kickstarter.com/profile/juxtagames)
+[Website](https://shop.juxtagames.com) | [Twitter](https://twitter.com/juxtagames) | [Pinterest](https://pinterest.com/juxtagames) | [Reddit](https://reddit.com/user/juxtagames) | [Tumblr](https://juxtagames.tumblr.com) | [Youtube](https://www.youtube.com/channel/UCckbaZDR1oRVjTFIZBthaQA) | [Patreon](https://www.patreon.com/juxtagames) | [Kickstarter](https://www.kickstarter.com/profile/juxtagames)
 
 > Copyright 2020 Juxtagames, LLC. All Rights Reserved. This project, known as *Modern5E*, is published under the Open Game License (OGL) v1.0a by [Wizards of the Coast](https://wizards.com). We make no claim or challenge to any trademarks owned by [Wizards of the Coast](https://wizards.com). In addition, this material utilizes the D20 Modern SRD and the Dungeons & Dragons SRD v5.1, both published by [Wizards of the Coast](https://wizards.com). As defined in the OGL v1.0a Section 1(e): We hereby acknowledge this material contains no product identity owned by Juxtagames or any other company or individual.
