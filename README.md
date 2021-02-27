@@ -23,7 +23,7 @@ There are numerous Markdown Editors available, many for free. We suggest using [
 
 We recommend downloading all files from the **'Master' branch only**.
 
-* To download specific Ruleset documents, visit [Pages]{https://github.com/Juxtagames/Modern5E/tree/master/pages}.
+* To download specific Ruleset documents, visit [Pages](https://github.com/Juxtagames/Modern5E/tree/master/pages).
 * To download a package of ALL Ruleset documents, visit [Releases](https://github.com/Juxtagames/Modern5E/releases).
 
 ## Work in Progress Downloads
