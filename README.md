@@ -1,4 +1,4 @@
-![Moder5E BannerAd](M5E-Banner.jpg)
+![Moder5E BannerAd](banner.jpg)
 
 # M5E Ruleset
 
