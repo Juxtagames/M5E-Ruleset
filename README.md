@@ -2,14 +2,14 @@
 
 # M5E Systems Reference Document (SRD)
 
-Modern5E is a 'modern' adaption of the Dungeons & Dragons 5th Edition rules under the Open Game License (OGL) v.1.0a by [Wizards of the Coast](https://company.wizards.com); see [legal.md](https://github.com/Juxtagames/Modern5E/blob/masterin/legal.md) for license information.
+Modern5E (M5E) is a 'modern' adaption of the Dungeons & Dragons 5th Edition rules under the Open Game License (OGL) v.1.0a by [Wizards of the Coast](https://company.wizards.com); see [legal.md](https://github.com/Juxtagames/Modern5E/blob/masterin/legal.md) for license information.
 
 In detail, Modern5E utilizes material from both the [d20 Modern SRD](https://en.wikipedia.org/wiki/D20_Modern) v1.0, and the newly [REmastered Dungeons & Dragons 5th Edition SRD](https://ogl-srd5.com) - based upon the official SRD v5.1 by [Wizards](https://dnd.wizards.com/articles/features/systems-reference-document-srd) to create a uniquely modern version of 5E tabletop roleplaying game for use in your modern actions adventures.
 
-## Ruleset vs. Core Rulebook
+## SRD vs. Core Rulebook
 
-* **The M5E Ruleset** is maintained in separate sections for anyone to use in projects and publications via the OGL. The Ruleset is available as a FREE download (see 'Master Downloads' below). The Ruleset does not contain all the written material found in the commercially licensed products, and there is no compiled version of the Ruleset to use at the game table. However, individuals are welcome to assemble their own tabletop editions from the available OGL material. All pages are formatted in Markdown (.MD) for ease of use and conversion.
-* **The Modern5E Core Rulebook** is a commercially licensed product available in various print and digital editions. The Core Rulebook contains additional material not found in the Ruleset, such as expanded character features, equipment options, gameplay examples, and artwork. This extra material is designed to enhance the gaming experience, both at the table and online. The physical and digital editions of the Core Rulebook are available at [Juxtagames](https://www.juxtagames.com).
+* **The M5E SRD** is maintained in separate sections for anyone to use in projects and publications via the OGL. The this ruleset is available as a FREE download (see 'SRD Downloads' below). The SRD does not contain all the written material found in the commercially licensed products, and there is no compiled version of the ruleset to use at the game table. However, individuals are welcome to assemble their own tabletop editions from the available OGL material. All pages are formatted in Markdown (.MD) for ease of use and conversion.
+* **The M5E Core Rulebook** is a commercially licensed product available in various print and digital editions. The Core Rulebook contains additional material not found in the SRD, such as expanded character features, equipment options, gameplay examples, artwork and more. This extra material is designed to enhance the gaming experience, both at the table and online. The physical and digital editions of the Core Rulebook are available at [Juxtagames](https://www.juxtagames.com).
 
 ### Why Markdown?
 
@@ -19,16 +19,16 @@ Due to its simple format, any word processor can open Markdown files, but not us
 
 There are numerous Markdown Editors available, many for free. We suggest using [PanWriter](https://panwriter.com), which utilizes Pandoc; it is the easiest and best way to convert Markdown files, and it is FREE!
 
-## Master Downloads
+## SRD Downloads
 
 We recommend downloading all files from the **'Master' branch only**.
 
-* To download specific M5E Ruleset documents, simply browse the directory above.
-* To download a package of **ALL** M5E Ruleset documents, visit [Releases](https://github.com/Juxtagames/Modern5E/releases).
+* To download specific M5E SRD documents, simply browse the directory above.
+* To download a package of **ALL** M5E SRD documents, visit [Releases](https://github.com/Juxtagames/Modern5E/releases).
 
-## Work in Progress Downloads
+## WIP Downloads
 
-All Modern5E project files currently in-development - in this case, both the M5E Ruleset and the Modern5E Core Rulebook - are located under the ['Work-in-Progress'](https://github.com/Juxtagames/Modern5E/tree/work-in-progress/pages) branch. Be aware, this branch and any extraneous branches outside the 'Master' branch are subject to change at any time.
+All Modern5E project files currently in-development - in this case, both the Modern5E SRD and the Modern5E Core Rulebook - are located under the ['Work-in-Progress'](https://github.com/Juxtagames/Modern5E/tree/work-in-progress/pages) branch. Be aware, this branch and any extraneous branches outside the 'Master' branch are subject to change at any time.
 
 ### Work in Progress Tracking
 
@@ -60,4 +60,4 @@ To support this project - until our official channels become available - you can
 
 [Website](https://shop.juxtagames.com) | [Twitter](https://twitter.com/juxtagames) | [Pinterest](https://pinterest.com/juxtagames) | [Reddit](https://reddit.com/user/juxtagames) | [Youtube](https://www.youtube.com/channel/UCckbaZDR1oRVjTFIZBthaQA) | [Patreon](https://www.patreon.com/juxtagames) | [Kickstarter](https://www.kickstarter.com/profile/juxtagames)
 
-> Copyright 2019-2021 Juxtagames, LLC. All Rights Reserved. This project, known as *Modern5E, M5E Rulesset and Modern5E Core Rulebook*, is published under the Open Game License (OGL) v1.0a by [Wizards of the Coast](https://wizards.com). We make no claim or challenge to any trademarks owned by [Wizards of the Coast](https://wizards.com). Also, this material utilizes the d20 Modern SRD and the Dungeons & Dragons SRD v5.1, both published by [Wizards of the Coast](https://wizards.com). As defined in the OGL v1.0a Section 1(e): We hereby acknowledge the M5E Ruleset contains no intellectual property owned by Juxtagames, LLC. Any intellectual property within this project is contained within the Modern5E Core Rulebook and is owned by Juxtagames, LLC.
+> Copyright 2019-2021 Juxtagames, LLC. All Rights Reserved. This project, known as *Modern5E, M5E, Modern5E SRD and Modern5E Core Rulebook*, is published under the Open Game License (OGL) v1.0a by [Wizards of the Coast](https://wizards.com). We make no claim or challenge to any trademarks owned by [Wizards of the Coast](https://wizards.com). Also, this material utilizes the d20 Modern SRD and the Dungeons & Dragons SRD v5.1, both published by [Wizards of the Coast](https://wizards.com). As defined in the OGL v1.0a Section 1(e): We hereby acknowledge the M5E SRD contains no intellectual property.
