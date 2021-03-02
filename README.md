@@ -30,7 +30,7 @@ We recommend downloading all files from the **'Master' branch only**.
 
 All Modern5E project files currently in-development - in this case, both the Modern5E SRD and the Modern5E Core Rulebook - are located under the ['Work-in-Progress'](https://github.com/Juxtagames/Modern5E/tree/work-in-progress/pages) branch. Be aware, this branch and any extraneous branches outside the 'Master' branch are subject to change at any time.
 
-### Work in Progress Tracking
+### WIP Tracking
 
 * To view and read the latest blog, visit [Juxtagames](https://shop.juxtagames.com/blog)
 * To view general information and goals, visit [Wiki](https://github.com/Juxtagames/Modern5E/wiki).
@@ -38,7 +38,7 @@ All Modern5E project files currently in-development - in this case, both the Mod
 * To view the progress of this project, visit [Milestones](https://github.com/Juxtagames/Modern5E/milestones).
 * To view changes to the public release pages, visit [Changelog](https://github.com/Juxtagames/Modern5E/blob/masterin/changelog.md).
 
-### Participation
+### WIP Participation
 
 To participate in this project, you will need a free [Github Account](https://github.com/join) account.
 
