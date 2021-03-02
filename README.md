@@ -4,7 +4,7 @@
 
 Modern5E (M5E) is a 'modern' adaption of the Dungeons & Dragons 5th Edition rules under the Open Game License (OGL) v.1.0a by [Wizards of the Coast](https://company.wizards.com); see [legal.md](https://github.com/Juxtagames/Modern5E/blob/masterin/legal.md) for license information.
 
-In detail, Modern5E utilizes material from both the [d20 Modern SRD](https://en.wikipedia.org/wiki/D20_Modern) v1.0, and the newly [REmastered Dungeons & Dragons 5th Edition SRD](https://ogl-srd5.com) - based upon the official SRD v5.1 by [Wizards](https://dnd.wizards.com/articles/features/systems-reference-document-srd) to create a uniquely modern version of 5E tabletop roleplaying game for use in your modern actions adventures.
+In detail, Modern5E utilizes material from both the [d20 Modern SRD](https://en.wikipedia.org/wiki/D20_Modern) v1.0, and the newly [REmastered Dungeons & Dragons 5th Edition SRD](https://ogl-srd5.com) - based upon the official SRD v5.1 by [Wizards](https://dnd.wizards.com/articles/features/systems-reference-document-srd) to create a uniquely modern version of 5E tabletop roleplaying game for use in your modern action adventures.
 
 ## SRD vs. Core Rulebook
 
