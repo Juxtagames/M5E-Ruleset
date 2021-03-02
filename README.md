@@ -8,7 +8,7 @@ In detail, Modern5E utilizes material from both the [d20 Modern SRD](https://en.
 
 ## SRD vs. Core Rulebook
 
-* **The M5E SRD** is the ruleset for anyone to use in Modern5E projects and publications via the OGL. The this ruleset is maintained in sections and is available as a FREE download (see 'SRD Downloads' below). The SRD does not contain all the written material found in the commercially licensed products, and there is no compiled version of the ruleset to use at the game table. However, individuals are welcome to assemble their own tabletop editions from the available OGL material. All pages are formatted in Markdown (.MD) for ease of use and conversion.
+* **The M5E SRD** is the ruleset for anyone to use in Modern5E projects and publications via the OGL. This ruleset is maintained in sections and is available as a FREE download (see 'SRD Downloads' below). The SRD does not contain all the written material found in the commercially licensed products, and there is no compiled version of the ruleset to use at the game table. However, individuals are welcome to assemble their own tabletop editions from the available OGL material. All pages are formatted in Markdown (.MD) for ease of use and conversion.
 * **The M5E Core Rulebook** is a commercially licensed product available in various print and digital editions. The Core Rulebook contains additional material not found in the SRD, such as expanded character features, equipment options, gameplay examples, artwork and more. This extra material is designed to enhance the gaming experience, both at the table and online. The physical and digital editions of the Core Rulebook are available at [Juxtagames](https://www.juxtagames.com).
 
 ### Why Markdown?
