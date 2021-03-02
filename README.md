@@ -15,7 +15,7 @@ In detail, Modern5E utilizes material from both the [d20 Modern SRD](https://en.
 
 Markdown (.MD) is a lightweight markup language created by [John Gruber](https://daringfireball.net/). At its core, Markdown is a plain text file that contains specific syntax that allows a Markdown editor to compile the document into Richtext. The most significant factor in favor of using Markdown is zero reliance on proprietary formats. Because Markdown is a simple text file, the longevity of the document's structure is significant.
 
-Due to its simple format, any word processor can open Markdown files, but not using an editor built to handle Markdown will constitute more work to remove or convert the syntax to Richtext. A good Markdown editor can also export to a multitude of formats, like .HTML or .DOCX, or nearly any other publishing format. Markdown is often used to create readme files, wikis, books, blogs, and messages.
+Due to its simple format, any word processor can open Markdown files, but not using an editor built to handle Markdown will constitute more work to remove or convert the syntax to Richtext. A good Markdown editor can also export to a multitude of formats, like .HTML or .DOCX, or nearly any other publishing format. Markdown is often used to create readme files, wikis, books, blogs, messages and more.
 
 There are numerous Markdown Editors available, many for free. We suggest using [PanWriter](https://panwriter.com), which utilizes Pandoc; it is the easiest and best way to convert Markdown files, and it is FREE!
 
