@@ -4,16 +4,16 @@
 
 Modern5E (M5E) is a 'modern' adaption of the Dungeons & Dragons 5th Edition rules under the Open Game License (OGL) v.1.0a by [Wizards of the Coast](https://company.wizards.com); see [legal.md](https://github.com/Juxtagames/Modern5E/blob/masterin/legal.md) for license information.
 
-In detail, Modern5E utilizes material from both the [d20 Modern SRD](https://en.wikipedia.org/wiki/D20_Modern) v1.0, and the newly [REmastered Dungeons & Dragons 5th Edition SRD](https://ogl-srd5.com) - based upon the official SRD v5.1 by [Wizards](https://dnd.wizards.com/articles/features/systems-reference-document-srd) to create a uniquely modern version of 5E tabletop roleplaying game for use in your modern actions adventures.
+In detail, Modern5E utilizes material from both the [d20 Modern SRD](https://en.wikipedia.org/wiki/D20_Modern) v1.0, and the newly [REmastered Dungeons & Dragons 5th Edition SRD](https://ogl-srd5.com) (based upon the official SRD v5.1 by [Wizards](https://dnd.wizards.com/articles/features/systems-reference-document-srd)). This hybrid will create a unique version of the 5th Edition tabletop roleplaying game for use in modern action adventures.
 
 ## SRD vs. Core Rulebook
 
-* **The M5E SRD** is the ruleset for anyone to use in Modern5E projects and publications via the OGL. This ruleset is maintained in sections and is available as a FREE download (see 'SRD Downloads' below). The SRD does not contain all the written material found in the commercially licensed products, and there is no compiled version of the ruleset to use at the game table. However, individuals are welcome to assemble their own tabletop editions from the available OGL material. All pages are formatted in Markdown (.MD) for ease of use and conversion.
-* **The M5E Core Rulebook** is a commercially licensed product available in various print and digital editions. The Core Rulebook contains additional material not found in the SRD, such as expanded character features, equipment options, gameplay examples, artwork and more. This extra material is designed to enhance the gaming experience, both at the table and online. The physical and digital editions of the Core Rulebook are available at [Juxtagames](https://www.juxtagames.com).
+* **The M5E SRD** is a ruleset for 3rd-party Modern5E projects and publications available via the OGL. This ruleset is maintained in sections and is available as a FREE download (see 'SRD Downloads' below). The SRD does not contain all the written material found in the commercially licensed products, and there is no compiled version of the ruleset to use at the game table. However, individuals are welcome to assemble their own tabletop editions from the available OGL material. All pages are formatted in Markdown (.MD) for ease of use and conversion.
+* **The M5E Core Rulebook** is a commercially licensed product available in various print and digital editions. The Core Rulebook contains additional material not found in the SRD, such as expanded character features, additional equipment options, gameplay examples, artwork and more. This extra material is designed to enhance the gaming experience, both at the table and online. The physical and digital editions of the Core Rulebook are available at [Juxtagames](https://www.juxtagames.com).
 
 ### Why Markdown?
 
-Markdown (.MD) is a lightweight markup language created by [John Gruber](https://daringfireball.net/). At its core, Markdown is a plain text file that contains specific syntax that allows a Markdown editor to compile the document into Richtext. The most significant factor in favor of using Markdown is zero reliance on proprietary formats. Because Markdown is a simple text file, the longevity of the document's structure is significant.
+Markdown (.MD) is a lightweight markup language created by [John Gruber](https://daringfireball.net/). At its core, Markdown is a plain text file that contains specific syntax that allows a Markdown editor to compile the document into Richtext. The most significant factor in favor of using Markdown is zero reliance on proprietary formats from controlling corporations. Because Markdown is a simple text file, the longevity of the document's structure is significant.
 
 Due to its simple format, any word processor can open Markdown files, but not using an editor built to handle Markdown will constitute more work to remove or convert the syntax to Richtext. A good Markdown editor can also export to a multitude of formats, like .HTML or .DOCX, or nearly any other publishing format. Markdown is often used to create readme files, wikis, books, blogs, messages and more.
 
@@ -21,14 +21,14 @@ There are numerous Markdown Editors available, many for free. We suggest using [
 
 ## SRD Downloads
 
-We recommend downloading all files from the **'Master' branch only**.
+We recommend downloading all files from the **'Master' branch only** as other branches are a work in progress.
 
-* To download specific M5E SRD documents, simply browse the directory above.
 * To download a package of **ALL** M5E SRD documents, visit [Releases](https://github.com/Juxtagames/Modern5E/releases).
+* To download specific M5E SRD documents, simply browse the directory above.
 
 ## WIP Downloads
 
-All Modern5E project files currently in-development - in this case, both the Modern5E SRD and the Modern5E Core Rulebook - are located under the ['Work-in-Progress'](https://github.com/Juxtagames/Modern5E/tree/work-in-progress/pages) branch. Be aware, this branch and any extraneous branches outside the 'Master' branch are subject to change at any time.
+All M5E work in progress (WIP) files are located under the ['wip'](https://github.com/Juxtagames/Modern5E/tree/wip/pages) branch. Be aware, this branch and any extraneous branches outside the 'Master' branch are in-development and subject to change at any time. We suggsest never using any WIP documents in any active projects or publications.
 
 ### WIP Tracking
 
