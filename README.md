@@ -52,7 +52,7 @@ To participate in this project, you will need a free [Github Account](https://gi
 
 Anyone can support this project through our Patreon and Kickstarter campaigns. For details, visit our website and social media accounts, or subscribe to our newsletter.
 
-To support this project - until our official channels become available - you can contribute funds through the following links.
+To support this project directly you can contribute funds through the following links.
 
 [$5](https://paypal.me/umbergerba/5) | [$10](https://paypal.me/umbergerba/10) | [$25](https://paypal.me/umbergerba/25) | [$50](https://paypal.me/umbergerba/50) | [$100](https://paypal.me/umbergerba/100) | [Custom](https://paypal.me/umbergerba)
 
