@@ -1,4 +1,4 @@
-![Moder5E BannerAd](banner.jpg)
+![Moder5E BannerAd](m5e-banner.jpg)
 
 # M5E Systems Reference Document (SRD)
 
