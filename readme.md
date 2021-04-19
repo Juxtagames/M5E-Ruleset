@@ -1,10 +1,10 @@
 ![Moder5E BannerAd](banner.jpg)
 
+=======
+
 The above banner is published here to summarize and express some of the features of Modern5E; to generate excitement for the project, not to promote the commercial version of this project.
 
 # M5E Systems Reference Document (SRD)
-
-The above banner is published here to summarize and express some of the features of Modern5E; to generate excitement for the project, not to promote the commercial version of this project.
 
 Modern5E (M5E) is a 'modern' adaption of the 5th Edition rules under the Open Game License (OGL) v.1.0a by [Wizards of the Coast](https://company.wizards.com); see [legal.md](https://github.com/Juxtagames/Modern5E/blob/masterin/legal.md) for license information.
 
