@@ -1,6 +1,6 @@
 ![Moder5E BannerAd](banner.jpg)
 
-The above banner is published here to summarize and express some of the features of Modern5E; to generate excitement for the project, not to promote the commercial version of this project.
+The above banner is published here to summarize and express some of the available features of Modern5E; to generate excitement for the project, not to promote the commercial version of this project.
 
 # M5E Systems Reference Document (SRD)
 
