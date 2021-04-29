@@ -55,7 +55,7 @@ To participate in this project, you will need a free [Github Account](https://gi
 
 Anyone can support this project through our Patreon and Kickstarter campaigns. For details, visit our website and social media accounts.
 
-[Patreon](https://www.patreon.com/juxtagames) | [Kickstarter](https://www.kickstarter.com/profile/juxtagames) | [Twitter](https://twitter.com/juxtagames) | [Reddit](https://reddit.com/user/juxtagames) | [Website](https://shop.juxtagames.com)
+[Patreon](https://www.patreon.com/juxtagames) | [Kickstarter](https://www.kickstarter.com/projects/juxtagames/modern5e-core-rulebook?ref=a9f2iz) | [Twitter](https://twitter.com/juxtagames) | [Reddit](https://reddit.com/user/juxtagames) | [Website](https://shop.juxtagames.com)
 
 To support this project directly you can contribute funds through the following PayPal links.
 
