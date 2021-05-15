@@ -1,4 +1,4 @@
-![Moder5E BannerAd](banner.jpg)
+![Moder5E BannerAd](m5e_banner.jpg)
 
 The above banner is published here to summarize and express some of the features of Modern5E.
 
