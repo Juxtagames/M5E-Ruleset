@@ -1,12 +1,10 @@
 ![Moder5E BannerAd](m5e_banner.jpg)
 
-The above banner is published here to summarize and express some of the features of Modern5E.
-
 # M5E Systems Reference Document (SRD)
 
 Modern5E (M5E) is a 'modern' adaption of the 5th Edition rules under the Open Game License (OGL) v.1.0a by [Wizards of the Coast](https://company.wizards.com); see [legal.md](https://github.com/Juxtagames/Modern5E/blob/masterin/legal.md) for license information.
 
-In detail, Modern5E utilizes material from both the classic ['Modern' OGL SRD](https://en.wikipedia.org/wiki/D20_Modern) v1.0, and the newly [REmastered 5th Edition SRD](https://ogl-srd5.com) (based upon the official SRD v5.1 by [Wizards](https://dnd.wizards.com/articles/features/systems-reference-document-srd)). This hybrid will create a unique version of the 5th Edition tabletop roleplaying game for use in modern action adventures.
+In detail, Modern5E utilizes material from both the classic ['Modern' OGL SRD](https://en.wikipedia.org/wiki/D20_Modern) v1.0, and the newly [REmastered 5th Edition SRD](https://ogl-srd5.com) (based upon the official SRD v5.1 by [Wizards](https://dnd.wizards.com/articles/features/systems-reference-document-srd)). This hybrid will create a unique version of the 5th Edition tabletop roleplaying game for use in modern action adventures and beyond.
 
 ## SRD vs. Core Rulebook
 
@@ -53,9 +51,9 @@ To participate in this project, you will need a free [Github Account](https://gi
 
 # Support the Modern5E Project
 
-Anyone can support this project through our Patreon and Kickstarter campaigns. For details, visit our website and social media accounts.
+Anyone can support this project through our [Patreon Campaign](https://www.patreon.com/juxtagames). For details, visit our website and social media accounts.
 
-[Patreon](https://www.patreon.com/juxtagames) | [Kickstarter](https://www.kickstarter.com/projects/juxtagames/modern5e-core-rulebook?ref=a9f2iz) | [Twitter](https://twitter.com/juxtagames) | [Reddit](https://reddit.com/user/juxtagames) | [Website](https://shop.juxtagames.com)
+[Website](https://shop.juxtagames.com) | [Twitter](https://twitter.com/juxtagames) | [Reddit](https://reddit.com/user/juxtagames)
 
 To support this project directly you can contribute funds through the following PayPal links.
 
