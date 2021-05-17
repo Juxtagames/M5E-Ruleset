@@ -1,0 +1,1 @@
+This is a placeholder file only. The Modern5E SRD is currently under development.
