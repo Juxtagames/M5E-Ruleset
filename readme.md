@@ -1,3 +1,5 @@
+**The M5E SRD project** is currently under development simultaneously with the Modern5E Core Rulebook; see below for more information. The M5E SRD will be fully published only after the core rules are complete. To follow the development, visit the M5E [Projects](https://github.com/Juxtagames/M5E-SRD/projects/4) outline. To support and help shape this project, join the [Juxtagames Patreon](https://patreon.com/juxtagames) campaign.
+
 ![Moder5E BannerAd](m5e_banner.jpg)
 
 # M5E Systems Reference Document (SRD)
