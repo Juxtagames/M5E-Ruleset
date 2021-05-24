@@ -32,13 +32,13 @@ By virtue of your species, your character can speak, read, and write certain lan
 
 ### Cultures
 
-[culture definition goes here]
+[definition of cultures goes here]
 
 Some species are more common in certain cultures. Members of a culture have additional qualities due to exposure to certain enviroments and customs. Relationships within cultures vary significantly from culture to culture and world to world.
 
 # Human
 
-[opening statement and human description goes here]
+[opening statement and description of humans goes here]
 
 ### Human Traits
 
